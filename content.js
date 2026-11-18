@@ -19,7 +19,7 @@ window.SITE = {
   now: [
     { label: "Working", value: "Associate Project Manager, GE Vernova Electrification Software" },
     { label: "Studying", value: "M.S. in AI / Machine Learning, UW Paul G. Allen School" },
-    { label: "Building", value: "Commute Watch, an AI that reads WSDOT cameras for me" },
+    { label: "Building", value: "Commute Watch, an AI that reads 2,000+ free, live CCTV cameras for me" },
   ],
 };
 
