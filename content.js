@@ -17,9 +17,9 @@ window.SITE = {
   intro:
     "Traffic cameras, satellite embeddings, Hausa speech, building energy, mouse brains, phishing emails, teff prices. The data changes. The habit doesn't: find something complicated, make it explorable, and be honest about what it can and can't tell you.",
   now: [
-    { label: "Studying", value: "M.S. in AI / Machine Learning, University of Washington" },
+    { label: "Working", value: "Associate Project Manager, GE Vernova Electrification Software" },
+    { label: "Studying", value: "M.S. in AI / Machine Learning, UW Paul G. Allen School" },
     { label: "Building", value: "Commute Watch, an AI that reads WSDOT cameras for me" },
-    { label: "Also", value: "Websites for Adult Family Homes through AFH Web Studio" },
   ],
 };
 
@@ -225,22 +225,43 @@ window.THOUGHTS = [
 window.ABOUT = {
   paragraphs: [
     "I'm Nahom. I'm a software engineer and an M.S. student in AI and Machine Learning at the University of Washington. Before that I studied Computer Science at Western Washington University, with minors in Biology and Chemistry, which explains why so many of my projects end up somewhere between code and science.",
+    "By day I'm an Associate Project Manager at GE Vernova in Bellevue, on the Software Services side of the Electrification Software business. We deliver grid and market software to electric utilities, and I sit between the project managers and the engineers who build and deploy it. I've also been writing Python and PowerShell automation for our PM team, pulling from APIs most PMs never touch, so the repetitive parts of the job run themselves.",
     "Most of what I build starts with a small annoyance. Checking traffic cameras every morning. Job boards that don't talk to each other. A church website that's hard to navigate. A dataset that's amazing but impossible to look at. I like taking those all the way from \"this is annoying\" to something that runs on its own, and then writing down honestly what worked and what didn't.",
     "This site is where all of that lives: the projects, the process behind them, and whatever I'm thinking about along the way.",
   ],
   experience: [
-    { when: "2025 – now", what: "AFH Web Studio", detail: "Founder. Websites for Adult Family Homes, from templates to done-for-you builds." },
-    { when: "2025", what: "Q-Mail, CougHacks 2025", detail: "Backend & integration lead. Top 5 of 15+ teams in 24 hours." },
-    { when: "2023 – 2025", what: "Computational Biology Lab, WWU", detail: "Research assistant. Used ROSETTA to study how insertions and deletions affect HIV-1, B. subtilis cold shock protein and Cambrin protein structures." },
-    { when: "2022 – 2025", what: "Midland Medical Clinic", detail: "IT systems administrator. Servers, networking, backups and security for a working clinic." },
-    { when: "2023", what: "Global Mentorship Initiative", detail: "Nominated by WWU and matched with a senior software engineer at Microsoft." },
-    { when: "2021 –", what: "WWU Outdoor Center", detail: "Trip leader. Planned and led outdoor trips for groups of students, from logistics to risk management." },
+    {
+      when: "2025 – now",
+      what: "Associate Project Manager · GE Vernova",
+      detail: "Electrification Software, Software Services · Bellevue, WA. I support the delivery of grid and market software projects for electric utilities, working as the link between project execution and the engineering teams. Day to day that means status reporting and project dashboards, documentation and meeting deliverables, Agile ceremonies tracked in Jira and Confluence, and following the software lifecycle from planning through production deployment and post-deployment fixes. I also build Python and PowerShell tools that automate PM workflows through APIs most PMs never touch.",
+    },
+    {
+      when: "2022 – now",
+      what: "Freelance Software Developer",
+      detail: "Full-stack websites and tools for small businesses and community organizations, from requirements to deployment. Includes AFH Web Studio, a web studio for Adult Family Homes, and rebuilds for a church community and an interpreting agency.",
+    },
+    {
+      when: "2023 – 2025",
+      what: "Research Assistant · Computational Biology Lab, WWU",
+      detail: "Used ROSETTA to analyze protein structures and how insertions and deletions affect HIV-1, the Bacillus subtilis major cold shock protein, and Cambrin protein.",
+    },
+    {
+      when: "2022 – 2025",
+      what: "IT Systems Administrator · Midland Medical Clinic",
+      detail: "Ran IT for a working medical practice: Windows Server, networking and DNS/DHCP troubleshooting, backups, security, user accounts, and vendor coordination for equipment repairs and installs.",
+    },
+    {
+      when: "2021 – 2023",
+      what: "Excursion Trip Leader · WWU Outdoor Center",
+      detail: "Led groups of 8+ students on week-long wilderness trips, handling planning, logistics, risk assessment and in-the-moment decisions.",
+    },
   ],
   education: [
-    { when: "Current", what: "M.S. AI / Machine Learning", detail: "University of Washington, Seattle" },
+    { when: "In progress", what: "M.S. AI / Machine Learning", detail: "University of Washington, Paul G. Allen School. Halfway through, with the Modern AI Methods certificate complete." },
     { when: "2024", what: "B.S. Computer Science", detail: "Western Washington University. Minors in Biology and Chemistry." },
   ],
   outside: [
+    "Mentee in the Global Mentorship Initiative: nominated by WWU and matched with a senior software engineer at Microsoft.",
     "Captain of my high school's Special Olympics Unified basketball team: two district golds, two second-place finishes at state.",
     "Named a student of the year at Kamiak High School.",
     "Organized school supply drives for students in Ethiopia.",
